@@ -1,0 +1,12 @@
+{
+  "number": {
+    "name": "number",
+    "type": "uint",
+    "value": "d48"
+  },
+  "num": {
+    "name": "num",
+    "type": "int",
+    "value": "-85"
+  }
+}
